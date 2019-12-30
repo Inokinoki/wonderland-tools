@@ -1,4 +1,7 @@
 /wonderland
 .vscode
 
+__pycache__
+*.pyc
 
+*.log
